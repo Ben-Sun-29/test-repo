@@ -8,6 +8,7 @@ public class a {
 			i++;
 		}
 		
-		System.out.println("不能交");
+		System.out.println("不能交就算了");
 	}
+	
 }
