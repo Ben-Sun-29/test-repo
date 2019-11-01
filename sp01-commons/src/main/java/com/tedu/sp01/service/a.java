@@ -4,5 +4,8 @@ public class a {
 
 	public static void main(String[] args) {
 		System.out.println("天天学习  好好向上");
+		for (int i = 0; i < 5; i++) {
+			i++;
+		}
 	}
 }
