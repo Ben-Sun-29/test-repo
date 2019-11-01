@@ -9,5 +9,6 @@ public class a {
 		}
 		
 		System.out.println("不能交");
+		System.out.println("不停交就对了");
 	}
 }
